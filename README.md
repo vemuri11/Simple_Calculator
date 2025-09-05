@@ -29,7 +29,7 @@ calculator-project/
 - ├── power.py # Contains function to calculate power (x^y)
 - └── squares.py # Contains function to calculate the square of a number
 # Run the program:
-### python main.py
+### - python main.py
 
 ## 🎯 Learning Outcomes
 
